@@ -1,19 +1,18 @@
 body {
   font-family: Verdana;
-  background-color: black;
   background-size: contain;
+  text-align: center;
+  background-color: black;
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
   Color: White;
-  text-align: center;
 }
 
-h3 {
-  color: Aquamarine;
-  font-size: 16px;
-  text-decoration-line: underline;
-  text-align: center;
+Imagewrap1,
+Imagewrap2 {
+  font-size: 42px;
+  font-weight: 300;
 }
