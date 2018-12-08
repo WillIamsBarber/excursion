@@ -1,11 +1,13 @@
 body {
   font-family: Verdana;
+  background-color: black;
+  background-size: contain;
 }
 
 h1 {
   font-weight: Normal;
   font-size: 50px;
-  Color: Red;
+  Color: White;
   text-align: center;
 }
 
