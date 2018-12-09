@@ -4,15 +4,12 @@ body {
   text-align: center;
   background-color: black;
 }
-
 h1 {
   font-weight: Normal;
   font-size: 50px;
   Color: White;
 }
-
-.Imagewrap1
-{
+.Imagewrap1 {
   font-size: 42px;
   font-weight: 300;
   color: white;
@@ -23,4 +20,10 @@ h1 {
   font-weight: 300;
   color: white;
   margin: 20px 20px;
+}
+.phone {
+  margin: 20px;
+}
+.footer {
+  text-align: right;
 }
